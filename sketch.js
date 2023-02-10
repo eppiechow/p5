@@ -18,7 +18,7 @@ function draw (){
 //background(64);
   image(img2,0,0);
 image(img1,mouseX, mouseY);
-    if(mouseY >= 170 && mouseY < 225 && mouseX >= 20 && mouseX < 270){
+    if(mouseY >= 170 && mouseY < 250 && mouseX >= 20 && mouseX < 270){
     image(img3,0,0);}
 image(img1,mouseX, mouseY);
 
